@@ -13,9 +13,9 @@ HasheeBird can be fully customized, but I prefer to use old-school Nintendo-like
 ## Rules
 
 * Hit space to make bird fly. <br>
-* Each heart :heart: add  +1 to your lives.<br>
-* When you hits pipes or falls down bird starts to be immortal (and blinks) until proof-of-work be fully finished <br>
-* When your lives less that 0 you lose. :scream: <br>
+* Each heart :heart: adds  +1 to your lives.<br>
+* When you hit pipes or fall down your lives decreases and bird starts to be immortal (blinks) until proof-of-work be fully finished <br>
+* When your lives are less than 0 - you lose. :scream: <br>
 * The immortal time depends on the speed of resolving the Monero hashes. <br>
 
 
