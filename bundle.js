@@ -358,6 +358,7 @@ class Bird {
 
         if (this.y + this.radius >= this.canvas.height) {
             this.y = this.canvas.height - this.radius;
+            this.velocity = 0;
             this.startImmortal();
         }
 
